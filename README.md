@@ -2,7 +2,7 @@
 
 A personal portfolio for **Raghunath N**, an AI engineer, full-stack developer, and creative technologist. The site brings together selected projects, AI research, engineering capabilities, leadership work, and creative interests in an interactive experience.
 
-**Live site:** [raghunath.dev](https://raghunath.dev)
+**Live site:** [Raghunath N](https://portfolio-20-gules-nu.vercel.app/)
 
 ## Highlights
 
@@ -55,6 +55,6 @@ data/         Profile, projects, skills, achievements, and content
 
 ## Contact
 
-- **GitHub:** [github.com/raghunath-n](https://github.com/raghunath-n)
+- **GitHub:** [github.com/ragss2005](https://github.com/ragss2005)
 - **LinkedIn:** [linkedin.com/in/raghunath-n](https://linkedin.com/in/raghunath-n)
-- **Email:** [raghunath.n.official@gmail.com](mailto:raghunath.n.official@gmail.com)
+- **Email:** [raghunath.n.official@gmail.com](mailto:raghunath.n.2005@gmail.com)
